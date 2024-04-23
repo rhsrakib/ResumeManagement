@@ -1,0 +1,62 @@
+<div class="container">
+  <div class="card">
+    <div class="card-body">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6">
+            <h1>Candidate Info</h1>
+          </div>
+          <div class="col-md-6 d-flex justify-content-end">
+            <button type="button" [routerLink]="['/masterdetails/add']" class="btn btn-outline-primary">Add New</button>
+          </div>
+        </div>        
+        <hr>
+        <div class="co-12">
+          <table class="table table-striped">
+            <thead>
+              <tr>
+                <th>Candidate Name</th>
+                <th>Date of Birth</th>
+                <th>Mobile No</th>
+                <th>Image</th>
+                <th>Skills</th>
+                <th>Action</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr *ngFor="let item of candidateList">
+                <td>{{item.candidateName}}</td>
+                <td>{{item.dateOfBirth}}</td>
+                <td>{{item.mobileNo}}</td>
+                <td>
+                  <span style="margin-right: 10px;">
+                    <img style="width: 100px; height: 100px;" [src]="imageUrl+item.picture" class="img">
+                  </span>
+                </td>
+                <td>
+                  <table class="table table-hover">
+                    <thead>
+                      <tr>
+
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr *ngFor="let skillList of item.skillList">
+                        <td># &nbsp;{{getSkillName(skillList.skillId)}}</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </td>
+                <td>
+                  <a class="btn btn-outline-dark me-2"
+                    [routerLink]="['/masterdetails','edit',item.candidateId]">Edit</a>
+                  <button (click)="OnDelete(item)" class="btn btn-outline-danger">Delete</button>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

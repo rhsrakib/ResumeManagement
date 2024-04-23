@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "F20bXB+Ffx6PmVtMNAxrRBtH4DaTPOtsG4KR/669dtg=",
+  "Source": "ResumeManagement",
+  "BasePath": "_content/ResumeManagement",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ResumeManagement\\wwwroot",
+      "Source": "ResumeManagement",
+      "ContentRoot": "D:\\IsDB-Bisew\\11. Pro Angular\\Evidence\\Candidate_Update\\ResumeManagement\\ResumeManagement\\wwwroot\\",
+      "BasePath": "_content/ResumeManagement",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\IsDB-Bisew\\11. Pro Angular\\Evidence\\Candidate_Update\\ResumeManagement\\ResumeManagement\\wwwroot\\Images\\b791bed7-7ff2-4c58-a643-cb91636a5404.png",
+      "SourceId": "ResumeManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\IsDB-Bisew\\11. Pro Angular\\Evidence\\Candidate_Update\\ResumeManagement\\ResumeManagement\\wwwroot\\",
+      "BasePath": "_content/ResumeManagement",
+      "RelativePath": "Images/b791bed7-7ff2-4c58-a643-cb91636a5404.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\b791bed7-7ff2-4c58-a643-cb91636a5404.png"
+    },
+    {
+      "Identity": "D:\\IsDB-Bisew\\11. Pro Angular\\Evidence\\Candidate_Update\\ResumeManagement\\ResumeManagement\\wwwroot\\Images\\bfb034de-7c51-4a01-b72c-a550000cbf16.png",
+      "SourceId": "ResumeManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\IsDB-Bisew\\11. Pro Angular\\Evidence\\Candidate_Update\\ResumeManagement\\ResumeManagement\\wwwroot\\",
+      "BasePath": "_content/ResumeManagement",
+      "RelativePath": "Images/bfb034de-7c51-4a01-b72c-a550000cbf16.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\bfb034de-7c51-4a01-b72c-a550000cbf16.png"
+    },
+    {
+      "Identity": "D:\\IsDB-Bisew\\11. Pro Angular\\Evidence\\Candidate_Update\\ResumeManagement\\ResumeManagement\\wwwroot\\Images\\db2a206a-828f-4252-ace3-2434e41776d9.png",
+      "SourceId": "ResumeManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\IsDB-Bisew\\11. Pro Angular\\Evidence\\Candidate_Update\\ResumeManagement\\ResumeManagement\\wwwroot\\",
+      "BasePath": "_content/ResumeManagement",
+      "RelativePath": "Images/db2a206a-828f-4252-ace3-2434e41776d9.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\db2a206a-828f-4252-ace3-2434e41776d9.png"
+    }
+  ]
+}

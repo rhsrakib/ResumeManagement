@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\IsDB-Bisew\\11. Pro Angular\\Evidence\\Candidate_Update\\ResumeManagement\\ResumeManagement\\wwwroot\\Images\\b791bed7-7ff2-4c58-a643-cb91636a5404.png",
+      "PackagePath": "staticwebassets\\Images\\b791bed7-7ff2-4c58-a643-cb91636a5404.png"
+    },
+    {
+      "Id": "D:\\IsDB-Bisew\\11. Pro Angular\\Evidence\\Candidate_Update\\ResumeManagement\\ResumeManagement\\wwwroot\\Images\\bfb034de-7c51-4a01-b72c-a550000cbf16.png",
+      "PackagePath": "staticwebassets\\Images\\bfb034de-7c51-4a01-b72c-a550000cbf16.png"
+    },
+    {
+      "Id": "D:\\IsDB-Bisew\\11. Pro Angular\\Evidence\\Candidate_Update\\ResumeManagement\\ResumeManagement\\wwwroot\\Images\\db2a206a-828f-4252-ace3-2434e41776d9.png",
+      "PackagePath": "staticwebassets\\Images\\db2a206a-828f-4252-ace3-2434e41776d9.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ResumeManagement.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ResumeManagement.props",
+      "PackagePath": "build\\ResumeManagement.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ResumeManagement.props",
+      "PackagePath": "buildMultiTargeting\\ResumeManagement.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ResumeManagement.props",
+      "PackagePath": "buildTransitive\\ResumeManagement.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
